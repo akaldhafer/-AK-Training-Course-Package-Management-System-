@@ -1,5 +1,5 @@
 #include <stdio.h> // Header file for simple functions such as input and output
-#include <stdlib.h> // Header file to use files
+#include <stdlib.h> // header defines four variable types, several macros, and various functions for performing general functions.
 #include <windows.h> // Header file to use windows functions like cls and pause
 #pragma warning (disable: 4996) // To disable warning for using scanf and scanf_s
 
